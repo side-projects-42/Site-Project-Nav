@@ -2,7 +2,7 @@
 title: Project Title 6
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
-thumb_image: images/6_thumb.jpg
+thumb_image: images/e8fe6085906d342bb17186bf6616a6cf.png
 thumb_image_alt: A handheld game console on a yellow background
 image: images/6.jpg
 image_alt: A handheld game console on a yellow background
