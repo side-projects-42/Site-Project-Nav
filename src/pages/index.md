@@ -22,7 +22,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: What I do
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
