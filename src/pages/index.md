@@ -49,6 +49,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        image: images/pure-data.png
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
