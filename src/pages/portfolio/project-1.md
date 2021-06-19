@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Mihir Beg Music
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/7a8bc98e902a2f6dea90386cdfb154c2.png
