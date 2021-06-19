@@ -1,5 +1,5 @@
 ---
-title: Project Title 6
+title: TetrisJS
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/e8fe6085906d342bb17186bf6616a6cf.png
