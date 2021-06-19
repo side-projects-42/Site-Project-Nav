@@ -79,7 +79,7 @@ sections:
     col_number: three
     actions:
       - label: View Blog
-        url: blog
+        url: 'https://bgoonz-blog.netlify.app/'
         style: button
 seo:
   title: Stackbit Exto Theme
