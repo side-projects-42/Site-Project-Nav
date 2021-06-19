@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2018-01-15'
 thumb_image: images/21ecc2f26e2641c8e9aae5479481bbe2 (5).jpg
 thumb_image_alt: A black headphones on a yeallow background
-image: images/majestic-oak.jpg
+image: images/main-blog.PNG
 image_alt: A black headphones on a yeallow background
 seo:
   title: Project Title 7
