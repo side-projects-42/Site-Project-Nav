@@ -1,5 +1,5 @@
 ---
-title: Project Title 5
+title: Web Dev Student Resources
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: images/1eb83ff46da1f1bf9d4227bd663a6c54.png
