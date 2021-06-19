@@ -1,5 +1,5 @@
 ---
-title: Project Title 7
+title: Gatsby & NextJS Blog
 subtitle: Optional Project Subtitle
 date: '2018-01-15'
 thumb_image: images/21ecc2f26e2641c8e9aae5479481bbe2 (5).jpg
