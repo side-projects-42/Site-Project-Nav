@@ -1,5 +1,5 @@
 ---
-title: Project Title 4
+title: Text Tools
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/e52475b93e4c589140a961f6ec6a8d7e (4).png

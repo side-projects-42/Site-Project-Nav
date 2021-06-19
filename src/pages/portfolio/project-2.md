@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: Lambda Student Resources
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/53bd97097fd4a60cb9d6dce85fefabe8 (5).png
