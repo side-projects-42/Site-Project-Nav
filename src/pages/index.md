@@ -82,7 +82,7 @@ sections:
         actions: []
         type: grid_item
         image: images/ds-algo.gif
-      - title: lorem-ipsum
+      - title: Portfolio
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
