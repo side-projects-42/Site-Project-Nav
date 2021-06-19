@@ -66,7 +66,7 @@ sections:
         actions: []
         type: grid_item
         image: images/code.png
-      - title: lorem-ipsum
+      - title: Data Structures Interactive
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
