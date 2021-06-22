@@ -27,7 +27,7 @@
             },
             {
                 "label": "MAIN BLOG",
-                "url": "#",
+                "url": "https://bgoonz-blog.netlify.app/",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
