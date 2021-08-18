@@ -132,7 +132,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Web Dev Projects
       keyName: property
     - name: 'og:description'
       value: >-
