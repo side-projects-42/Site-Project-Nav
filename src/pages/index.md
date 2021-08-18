@@ -135,7 +135,10 @@ seo:
       value: Stackbit Exto Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        Projects, Music audio portfolio and online DAW. Lambda Bootcamp
+        resources,  Text Tools,  Tetris, Python, Digital Signal Processing, 
+        Neural Networks, Pure Data
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
