@@ -3,7 +3,7 @@ title: Lambda Student Resources
 subtitle: lambda resources by students for students
 date: '2021-08-18'
 thumb_image: images/53bd97097fd4a60cb9d6dce85fefabe8 (5).png
-thumb_image_alt: An orange on a blue background
+thumb_image_alt: lambda resources website
 image: images/2.jpg
 image_alt: An orange on a blue background
 seo:
