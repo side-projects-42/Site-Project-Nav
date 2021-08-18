@@ -1,6 +1,6 @@
 ---
 title: Lambda Student Resources
-subtitle: Optional Project Subtitle
+subtitle: lambda resources by students for students
 date: '2019-04-30'
 thumb_image: images/53bd97097fd4a60cb9d6dce85fefabe8 (5).png
 thumb_image_alt: An orange on a blue background
