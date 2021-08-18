@@ -149,7 +149,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Exto Theme
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        Projects, Music audio portfolio and online DAW. Lambda Bootcamp
+        resources,  Text Tools,  Tetris, Python, Digital Signal Processing, 
+        Neural Networks, Pure Data
     - name: 'twitter:image'
       value: images/webdevhublogo2.PNG
       relativeUrl: true
