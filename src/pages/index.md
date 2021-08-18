@@ -123,7 +123,10 @@ sections:
         style: button
 seo:
   title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  description: >-
+    Projects, Music audio portfolio and online DAW. Lambda Bootcamp resources, 
+    Text Tools,  Tetris, Python, Digital Signal Processing,  Neural Networks,
+    Pure Data
   extra:
     - name: 'og:type'
       value: website
