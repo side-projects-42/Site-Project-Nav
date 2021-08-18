@@ -151,7 +151,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: images/webdevhublogo2.PNG
       relativeUrl: true
 template: advanced
 ---
