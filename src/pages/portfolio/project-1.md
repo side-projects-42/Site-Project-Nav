@@ -3,7 +3,7 @@ title: Mihir Beg Music
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/7a8bc98e902a2f6dea90386cdfb154c2.png
-thumb_image_alt: mihir beg audio engineer
+thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
@@ -34,11 +34,12 @@ seo:
       relativeUrl: true
 template: project
 ---
+Growing up, Mihir trained to be an actor, starting with performing in his school plays and choir. After doing stand-up comedy at the Comic Strip Live, Mihir took off with acting and modeling with a role in the Off-Broadway musical "Broadway Jayne" and enjoyed starring in a "Juicy Drop Taffy" Television Commercial. An entertainer since birth, Mihir loves all performing arts and hopes to utilize his acting talents again soon.
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
 
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Starting in chorus and chamber choir in middle school, Mihir was always searching to find his voice. He received about three years of training at the School Of Rock, as well as four years training with Joy Askew at Stevens. He has also studied Carnatic Indian singing, and devotional Hindu Classical music. 
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+At the age of 13 Mihir started taking lessons at School of Rock. The guitar has been his favorite instrument since, taking his influence from John Frusciante, Jimi Hendrix, and other rock legends. 
+
+Mihir main instruments are a Mccarty PRS electric guitar (pictured) and an A1R Yamaha Acoustic guitar. 
