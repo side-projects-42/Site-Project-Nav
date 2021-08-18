@@ -50,7 +50,7 @@ seo:
         Neural Networks, Pure Data
       keyName: property
     - name: 'og:image'
-      value: images/My Post.png
+      value: images/violet-onion.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
