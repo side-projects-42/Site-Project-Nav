@@ -84,17 +84,14 @@ sections:
         image: images/ds-algo.gif
       - title: Documentation
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          # Documentation 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          As a part of my learning process I document whatever I am learning...
+          compulsively.
         actions: []
         type: grid_item
         image: images/27697c1a901d3b3673aeb98edae4d2ae (2).jpg
