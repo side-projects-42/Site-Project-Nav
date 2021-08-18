@@ -4,11 +4,11 @@ subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/7a8bc98e902a2f6dea90386cdfb154c2.png
 thumb_image_alt: 'White, black, and red shoe sole'
-image: images/1.jpg
+image: images/logo.png
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
-  description: This is the project 1 description
+  description: Mihir beg audio engineer portfolio & business site
   extra:
     - name: 'og:type'
       value: website

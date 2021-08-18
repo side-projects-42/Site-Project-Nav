@@ -20,97 +20,6 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
-  - section_id: services
-    type: section_grid
-    title: What I do
-    subtitle: An optional subtitle of the section
-    col_number: two
-    is_numbered: true
-    grid_items:
-      - title: Python Practice Site
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/python.png
-      - title: Web Audio Playground
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
-        image: images/goals.jpg
-      - title: Facial Recognition
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-        image: images/neural.PNG
-      - title: Audio Effects Design
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        image: images/pure-data.png
-      - title: Content Creation
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        type: grid_item
-        image: images/code.png
-      - title: Data Structures Interactive
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        type: grid_item
-        image: images/ds-algo.gif
-      - title: Documentation
-        image_alt: lorem-ipsum
-        content: >
-          # Documentation 
-
-
-
-
-          As a part of my learning process I document whatever I am learning...
-          compulsively.
-        actions: []
-        type: grid_item
-        image: images/27697c1a901d3b3673aeb98edae4d2ae (2).jpg
-      - title: Goal Setting
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
-        type: grid_item
-        image: images/goals.png
   - section_id: latest-posts
     type: section_posts
     title: Latest
@@ -141,7 +50,7 @@ seo:
         Neural Networks, Pure Data
       keyName: property
     - name: 'og:image'
-      value: images/My Post.png
+      value: images/violet-onion.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

@@ -16,11 +16,6 @@
                 "style": "link"
             },
             {
-                "label": "Project Preview",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
@@ -71,5 +66,5 @@
         ]
     },
     "title": "Stackbit Exto Theme",
-    "domain": "https://curious-zebra-a1329.netlify.app"
+    "domain": "https://project-portfolio42.netlify.app"
 }
