@@ -8,7 +8,7 @@ image: images/logo.png
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
-  description: This is the project 1 description
+  description: Mihir beg audio engineer portfolio & business site
   extra:
     - name: 'og:type'
       value: website
